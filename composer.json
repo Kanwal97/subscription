@@ -1,0 +1,19 @@
+{
+    "name": "inspire/subscription",
+    "description": "Subscription Package",
+    "autoload": {
+        "psr-4": {
+            "Inspire\\Subscription\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Inspire Everyone",
+            "email": "inspire@everyone.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "laravel/framework": ">=6.20"
+    }
+}
