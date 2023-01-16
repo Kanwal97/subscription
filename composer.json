@@ -1,9 +1,9 @@
 {
-    "name": "inspire/subscription",
+    "name": "everyee/subscription",
     "description": "Subscription Package",
     "autoload": {
         "psr-4": {
-            "Inspire\\Subscription\\": "src/"
+            "Everyee\\Subscription\\": "src/"
         }
     },
     "authors": [
